@@ -1,13 +1,12 @@
-<h1 align="center">
-  Hey there 👋, I'm <span style="color:#00c4ff;">Sarath Madala</span>
-</h1>
+<h1 align="center">Hey there 👋, I'm <span style="color:#00c4ff;">Sarath Madala</span></h1>
+<h3 align="center">FinOps Engineer | Cloud Cost Whisperer | Automation Addict</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=58A6FF&center=true&width=600&lines=FinOps+Engineer;AI-driven+Cloud+Optimizer;Automation+Innovator;Dashboard+Creator" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=500&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;width=500&amp;lines=FinOps+Engineer;AWS+Automation+Architect;Cloud+Cost+Optimizer;Flutter+App+Innovator" alt="Typing Animation" />
 </p>
 
-<p align="center" style="margin-top: -10px;">
-  <em style="color:#888;">Empowering organizations with intelligent cloud cost optimization & automation</em>
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
 
 <p align="center" style="margin-top: 10px;">
@@ -50,7 +49,6 @@
   <!-- Databases & APIs -->
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&amp;logo=amazonaws&amp;logoColor=white" alt="Amazon RDS" />
-  <img src="https://img.shields.io/badge/REST_API-4AA8FF?style=for-the-badge" alt="REST API" />
   <!-- Development & Other -->
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&amp;logo=flutter&amp;logoColor=white" alt="Flutter" />
