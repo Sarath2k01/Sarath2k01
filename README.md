@@ -2,7 +2,7 @@
 <h3 align="center">FinOps Engineer | Cloud Cost Whisperer | Automation Addict</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=58A6FF&center=true&width=500&lines=FinOps+Engineer;AWS+Automation+Architect;Cloud+Cost+Optimizer;Flutter+App+Innovator" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=500&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;width=500&amp;lines=FinOps+Engineer;AWS+Automation+Architect;Cloud+Cost+Optimizer;Flutter+App+Innovator" alt="Typing Animation" />
 </p>
 
 <p align="center">
@@ -14,9 +14,9 @@
 ### 💡 About Me
 
 - 🎓 MS in Computer Science @ University of Dayton (2023–2025)  
-- 🚀 Building AWS-powered dashboards, automation tools & FinOps frameworks  
-- 🔍 Focused on real-time cloud visibility, anomaly alerts & tagging compliance  
-- 🛠️ Creator of cost reporting tools & optimization pipelines  
+- 🚀 Building AWS-powered dashboards, automation tools &amp; FinOps frameworks  
+- 🔍 Focused on real-time cloud visibility, anomaly alerts &amp; tagging compliance  
+- 🛠️ Creator of cost reporting tools &amp; optimization pipelines  
 - 📫 Reach me at **sarath2k01@gmail.com**  
 - 🔗 [LinkedIn](https://linkedin.com/in/sarath-madala)
 
@@ -24,14 +24,14 @@
 
 ### 🧠 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![QuickSight](https://img.shields.io/badge/QuickSight-FF9900?style=for-the-badge&logo=amazon&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=white)  
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&amp;logo=dart&amp;logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&amp;logo=amazonaws&amp;logoColor=white)  
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&amp;logo=terraform&amp;logoColor=white)  
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&amp;logo=streamlit&amp;logoColor=white)  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&amp;logo=flutter&amp;logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&amp;logo=firebase&amp;logoColor=black)  
+![QuickSight](https://img.shields.io/badge/QuickSight-FF9900?style=for-the-badge&amp;logo=amazon&amp;logoColor=white)
 
 ---
 
@@ -51,16 +51,16 @@
 
 - 🧠 Parkinson’s Disease MRI Detection – [DOI](https://doi.org/10.35784/acs-2023-19)  
 - 👁️ Diabetic Retinopathy via TaNet – [DOI](https://doi.org/10.26599/NBE.2023.9290041)  
-- 🫁 COVID & Pneumonia from X-rays – [DOI](https://doi.org/10.1729/Journal.33559)
+- 🫁 COVID &amp; Pneumonia from X-rays – [DOI](https://doi.org/10.1729/Journal.33559)
 
 ---
 
-### 🏆 GitHub Highlights
+### 🚀 Key Highlights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sarath2k01&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarath2k01&layout=compact&theme=radical" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=Sarath2k01&theme=radical" width="99%" />
+  <img src="https://img.shields.io/badge/Cloud_Cost_Savings-%24630K%2B-brightgreen?style=for-the-badge" alt="Cost Savings" />
+  <img src="https://img.shields.io/badge/FinOps-Certified_Practitioner-blue?style=for-the-badge" alt="FinOps Certified" />
+  <img src="https://img.shields.io/badge/GitHub-Stars-10K-yellow?style=for-the-badge" alt="GitHub Stars" />
 </p>
 
 ---
@@ -68,9 +68,9 @@
 ### 🌐 Let’s Connect
 
 <p align="center">
-  <a href="mailto:sarath2k01@gmail.com"><img src="https://img.shields.io/badge/Gmail-sarath2k01%40gmail.com-red?style=for-the-badge&logo=gmail"></a>
-  <a href="https://linkedin.com/in/sarath-madala"><img src="https://img.shields.io/badge/LinkedIn-Sarath_Madala-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://github.com/Sarath2k01"><img src="https://img.shields.io/badge/GitHub-Sarath2k01-black?style=for-the-badge&logo=github"></a>
+  <a href="mailto:sarath2k01@gmail.com"><img src="https://img.shields.io/badge/Gmail-sarath2k01%40gmail.com-red?style=for-the-badge&amp;logo=gmail" alt="Email"/></a>
+  <a href="https://linkedin.com/in/sarath-madala"><img src="https://img.shields.io/badge/LinkedIn-Sarath_Madala-blue?style=for-the-badge&amp;logo=linkedin" alt="LinkedIn"/></a>
+  <a href="https://github.com/Sarath2k01"><img src="https://img.shields.io/badge/GitHub-Sarath2k01-black?style=for-the-badge&amp;logo=github" alt="GitHub"/></a>
 </p>
 
 ---
