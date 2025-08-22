@@ -1,4 +1,14 @@
-<h1 align="center">Hey there 👋, I'm <span style="color:#00c4ff;">Sarath Madala</span></h1>
+<table width="100%">
+  <tr>
+    <td align="left" width="90%">
+      <h1>Hey there 👋, I'm <span style="color:#00c4ff;">Sarath Madala</span></h1>
+    </td>
+    <td align="right" width="10%">
+      <img src="https://komarev.com/ghpvc/?username=Sarath2k01&color=blue&label=Profile+views&style=flat-square" alt="Profile views" />
+    </td>
+  </tr>
+</table>
+
 <h3 align="center">FinOps Engineer | Cloud Cost Whisperer | Automation Addict</h3>
 
 <p align="center">
@@ -7,10 +17,6 @@
 
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</p>
-
-<p align="center" style="margin-top: 10px;">
-  <img src="https://komarev.com/ghpvc/?username=Sarath2k01&color=blue&label=Profile+views&style=flat-square" alt="Profile views" />
 </p>
 
 ---
