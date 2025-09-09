@@ -1,6 +1,6 @@
 <table width="100%">
   <tr>
-    <td align="left" width="90%">
+    <td align="left" width="100%">
       <h1>Hey there 👋, I'm <span style="color:#00c4ff;">Sarath Madala</span></h1>
     </td>
   </tr>
