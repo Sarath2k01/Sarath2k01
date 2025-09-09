@@ -3,9 +3,6 @@
     <td align="left" width="90%">
       <h1>Hey there 👋, I'm <span style="color:#00c4ff;">Sarath Madala</span></h1>
     </td>
-    <td align="right" width="10%">
-      <img src="https://komarev.com/ghpvc/?username=Sarath2k01&color=blue&label=Profile+views&style=flat-square" alt="Profile views" />
-    </td>
   </tr>
 </table>
 
